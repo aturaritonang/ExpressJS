@@ -1,0 +1,29 @@
+{
+  "name": "expressjs",
+  "version": "1.0.0",
+  "description": "\u001b[A\u001b[BFirst ExpressJs project",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mangatur/ExpressJS.git"
+  },
+  "keywords": [
+    "expressjs"
+  ],
+  "author": "Atur Aritonang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mangatur/ExpressJS/issues"
+  },
+  "homepage": "https://github.com/mangatur/ExpressJS#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^5.0.4",
+    "nodemon": "^1.14.12",
+    "pug": "^2.0.0-rc.4"
+  }
+}
